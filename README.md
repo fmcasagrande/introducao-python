@@ -2,7 +2,7 @@
 
 Curso de nivelamento em Python com tom acadêmico moderado, baseado em **Introduction to Computation and Programming Using Python** (John V. Guttag, MIT Press).
 
-Pensado para preceder a pós-graduação em Visão Computacional da Sigmoidal, mas o conteúdo é autossuficiente para quem quer uma base sólida em programação com sabor de ciência da computação.
+Uma realização **Sigmoidal** e **STAR Research Institute**. Pensado para preceder a pós-graduação em Visão Computacional.
 
 ## Estrutura
 
@@ -47,4 +47,4 @@ introducao-python/
 
 ## Licença
 
-Material didático proprietário da Sigmoidal — uso interno.
+Material didático proprietário — Sigmoidal e STAR Research Institute. Uso interno.
