@@ -44,6 +44,9 @@ data/*.tar.gz
 .claude/
 CLAUDE.md
 
+# Notebooks de apoio (privados do instrutor)
+notebooks/bonus_*.ipynb
+
 # Misc
 *.log
 *.tmp
