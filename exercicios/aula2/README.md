@@ -2,6 +2,8 @@
 
 10 tarefas sobre funções, listas, mutabilidade, tuplas, strings, dicionários e recursão. Resolva no arquivo de sua preferência — `.py` ou `.ipynb`. Tente sem consultar a aula; se travar, volte aos exemplos.
 
+Para a versão completa em notebook (com casos de teste e células de solução ocultas), abra `notebooks/tarefas_aula2.ipynb` ou [diretamente no Colab](https://colab.research.google.com/github/carlosfab/introducao-python/blob/main/notebooks/tarefas_aula2.ipynb).
+
 ## Parte A — Funções
 
 ### 1. Conversor Celsius → Fahrenheit
